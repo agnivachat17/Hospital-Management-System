@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System
+# Hospital Management System
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -11,7 +11,7 @@ A **Java Swing + MySQL desktop application** to manage hospital operations like 
 
 ---
 
-## 🚀 Features
+## Features
 
 * Manage patient records (Add, View, Update, Delete)
 * Doctor management system
@@ -22,7 +22,7 @@ A **Java Swing + MySQL desktop application** to manage hospital operations like 
 
 ---
 
-## ⭐ Key Highlights
+## Key Highlights
 
 * Full CRUD operations implemented across modules
 * Relational database design with foreign key constraints
@@ -32,7 +32,7 @@ A **Java Swing + MySQL desktop application** to manage hospital operations like 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * Java (Swing)
 * MySQL
@@ -41,7 +41,7 @@ A **Java Swing + MySQL desktop application** to manage hospital operations like 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 HospitalManagementSystem/
@@ -52,7 +52,7 @@ HospitalManagementSystem/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Install Java (JDK 8 or above)
 2. Set up MySQL and create required tables
@@ -64,7 +64,7 @@ java -jar HospitalManagementSystem.jar
 
 ---
 
-## 🗄️ Database Setup
+## Database Setup
 
 ```sql
 CREATE DATABASE hospital;
@@ -97,7 +97,7 @@ CREATE TABLE appointments (
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 * Building real-world desktop applications
 * GUI development using Java Swing
@@ -106,7 +106,7 @@ CREATE TABLE appointments (
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add authentication/login system
 * Improve UI/UX design
@@ -115,7 +115,7 @@ CREATE TABLE appointments (
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Agniva Chatterjee**
 
@@ -127,17 +127,17 @@ CREATE TABLE appointments (
 
 ## 📸 Screenshots
 
-### 🏠 Main Dashboard
+### Main Dashboard
 <img src="screenshots/home.png" width="500"/>
 
-### 👤 Patient Management
+### Patient Management
 <img src="screenshots/patient-form.png" width="500"/>
 <img src="screenshots/patient-records.png" width="500"/>
 
-### 👨‍⚕️ Doctor Management
+### Doctor Management
 <img src="screenshots/doctor-form.png" width="500"/>
 <img src="screenshots/doctor-records.png" width="500"/>
 
-### 📅 Appointment System
+### Appointment System
 <img src="screenshots/appointment-form.png" width="500"/>
 <img src="screenshots/appointment-records.png" width="500"/>
