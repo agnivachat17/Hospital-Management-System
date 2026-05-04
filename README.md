@@ -128,16 +128,16 @@ CREATE TABLE appointments (
 ## 📸 Screenshots
 
 ### 🏠 Main Dashboard
-<img src="screenshots/home.png" width="600"/>
+<img src="screenshots/home.png" width="500"/>
 
 ### 👤 Patient Management
-<img src="screenshots/patient-form.png" width="600"/>
-<img src="screenshots/patient-records.png" width="600"/>
+<img src="screenshots/patient-form.png" width="500"/>
+<img src="screenshots/patient-records.png" width="500"/>
 
 ### 👨‍⚕️ Doctor Management
-<img src="screenshots/doctor-form.png" width="600"/>
-<img src="screenshots/doctor-records.png" width="600"/>
+<img src="screenshots/doctor-form.png" width="500"/>
+<img src="screenshots/doctor-records.png" width="500"/>
 
 ### 📅 Appointment System
-<img src="screenshots/appointment-form.png" width="600"/>
-<img src="screenshots/appointment-records.png" width="600"/>
+<img src="screenshots/appointment-form.png" width="500"/>
+<img src="screenshots/appointment-records.png" width="500"/>
